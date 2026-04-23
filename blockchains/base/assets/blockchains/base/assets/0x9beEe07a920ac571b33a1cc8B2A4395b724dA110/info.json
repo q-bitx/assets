@@ -1,0 +1,11 @@
+{
+  "name": "Wrapped Q-BitX",
+  "symbol": "wQBX",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Wrapped Q-BitX (wQBX) is an EVM-compatible representation of QBX on the Base network, enabling access to DeFi applications.",
+  "website": "https://qbitx.org",
+  "explorer": "https://basescan.org/token/0x9beEe07a920ac571b33a1cc8B2A4395b724dA110",
+  "status": "active",
+  "id": "0x9beEe07a920ac571b33a1cc8B2A4395b724dA110"
+}
